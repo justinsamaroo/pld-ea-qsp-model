@@ -1,0 +1,40 @@
+{
+  "source": "Reference numerical result files included with the model",
+  "files": [
+    {
+      "file": "outputs/Figure3_biomarker_results.mat",
+      "sha256": "1d1aa7cb864d97b5aaadc32707f0b46159949b6b4cd721ffc4074c175341a6d0",
+      "bytes": 1191
+    },
+    {
+      "file": "outputs/Figure4_sobol.mat",
+      "sha256": "e532a2d8eb2fc7ec7eb406bfea754977a8de061e1e2d7926d616f5f0f54598f9",
+      "bytes": 3603
+    },
+    {
+      "file": "outputs/FigureS10_benchmark_results.mat",
+      "sha256": "067b8d1964151b66c83e95b2fee28755d15ee4d3cb435a31113682106829f701",
+      "bytes": 685
+    },
+    {
+      "file": "outputs/FigureS6_S9_population.mat",
+      "sha256": "d60a6652dde6d9669d2912b9793907a2add1ddd28eb25768847c288e93098df2",
+      "bytes": 21861
+    },
+    {
+      "file": "outputs/reference_output_check.mat",
+      "sha256": "a6024b7fcc04f861538b54facbf6bc1f0989107324f5ff45197677d85dcbc246",
+      "bytes": 704
+    },
+    {
+      "file": "outputs/tau_floor_sensitivity.csv",
+      "sha256": "0a9550cb599e2823d8abcca97702aac3982feeb08eebc23929f032af8df2f85f",
+      "bytes": 282
+    },
+    {
+      "file": "outputs/tau_floor_sensitivity.mat",
+      "sha256": "b8c85602cb3391f776c0e72ddbe2ecabc867a5e3b95e78a2302d2c8e017674b6",
+      "bytes": 1088
+    }
+  ]
+}

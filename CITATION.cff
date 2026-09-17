@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+license: MIT
+message: "If you use this software, please cite it using the metadata in this file."
+title: "Standalone MATLAB implementation of a rat-parameterized QSP model of PEGylated liposomal doxorubicin and ellagic acid"
+type: software
+authors:
+  - family-names: "Samaroo"
+    given-names: "Justin Mark"
+repository-code: "https://github.com/justinsamaroo/pld-ea-qsp-model"
+url: "https://github.com/justinsamaroo/pld-ea-qsp-model"
+abstract: >-
+  A standalone MATLAB ordinary differential equation implementation of a
+  rat-parameterized quantitative systems pharmacology model integrating
+  PEGylated liposomal doxorubicin pharmacokinetics, tumor response, cardiac
+  biomarkers, reactive oxygen species, cardiac function, and ellagic acid
+  pharmacokinetics.
+keywords:
+  - "quantitative systems pharmacology"
+  - "PEGylated liposomal doxorubicin"
+  - "ellagic acid"
+  - "cardiotoxicity"
+  - "pharmacometrics"
+  - "sensitivity analysis"
