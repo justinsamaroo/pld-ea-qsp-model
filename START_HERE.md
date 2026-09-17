@@ -26,4 +26,5 @@ Inspect any newly generated PDFs at their intended final size. The `README.md` d
 
 Justin Mark Samaroo is the sole software author. Manuscript authorship is listed separately in the README. The software is distributed under the [MIT License](LICENSE), also recorded in `CITATION.cff`.
 
-A versioned release and Zenodo DOI have not yet been assigned. See [README.md](README.md) and `CITATION.cff` for citation information.
+Version v1.0.0 is archived on Zenodo at https://doi.org/10.5281/zenodo.22818176. Cite this DOI when referring to this version of the model, results and documentation.
+
