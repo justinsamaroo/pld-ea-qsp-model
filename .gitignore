@@ -1,0 +1,19 @@
+# MATLAB temporary and generated files
+*.asv
+*.autosave
+*.m~
+*.bak
+*.tmp
+*.log
+
+# Generated build folders
+slprj/
+sccprj/
+codegen/
+
+# Locally regenerated submission packages
+submission_exports/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
