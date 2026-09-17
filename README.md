@@ -159,4 +159,5 @@ The historical parameter `krel_RES` implements untracked loss from the RES, with
 
 `CITATION.cff` provides the software citation metadata and lists Justin Mark Samaroo as the sole software author. The software is distributed under the [MIT License](LICENSE), and the citation metadata records `license: MIT`.
 
-A versioned release and Zenodo DOI have not yet been assigned. Until an archived release is available, cite the repository URL and the specific commit used.
+Version v1.0.0 is archived on Zenodo at https://doi.org/10.5281/zenodo.22818176. Cite this DOI when referring to this version of the model, results and documentation.
+
