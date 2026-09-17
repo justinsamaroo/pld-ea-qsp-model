@@ -1,5 +1,8 @@
 cff-version: 1.2.0
 license: MIT
+version: "v1.0.0"
+date-released: "2026-09-17"
+doi: "10.5281/zenodo.22818176"
 message: "If you use this software, please cite it using the metadata in this file."
 title: "Standalone MATLAB implementation of a rat-parameterized QSP model of PEGylated liposomal doxorubicin and ellagic acid"
 type: software
