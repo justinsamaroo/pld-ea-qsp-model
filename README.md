@@ -2,7 +2,7 @@
 
 Standalone MATLAB implementation for the manuscript:
 
-> Rat-Calibrated Quantitative Systems Pharmacology Framework to Define Target-Site Ellagic Acid Requirements During PEGylated Liposomal Doxorubicin Therapy
+> Rat-Parameterized Quantitative Systems Pharmacology Framework to Define Target-Site Ellagic Acid Requirements During PEGylated Liposomal Doxorubicin Therapy
 
 **Software author: Justin Mark Samaroo.** The manuscript authors are Justin Mark Samaroo, Bart Lipkens, Shuhua Bai and Hamed Gilzad-Kohan. Software citation metadata lists Justin Mark Samaroo alone.
 
