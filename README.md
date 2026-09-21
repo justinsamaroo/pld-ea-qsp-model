@@ -4,7 +4,7 @@ Standalone MATLAB implementation for the manuscript:
 
 > Rat-Parameterized Quantitative Systems Pharmacology Framework to Define Target-Site Ellagic Acid Requirements During PEGylated Liposomal Doxorubicin Therapy
 
-**Software author: Justin Mark Samaroo.** The manuscript authors are Justin Mark Samaroo, Bart Lipkens, Shuhua Bai and Hamed Gilzad Kohan. Software citation metadata lists Justin Mark Samaroo alone.
+**Software author: Justin Mark Samaroo.** The manuscript authors are Justin Mark Samaroo, Bart Lipkens, Shuhua Bai and Hamed Gilzad Kohan. 
 
 The model contains 20 ordinary differential equation states: five liposomal doxorubicin dose cohorts, free doxorubicin in plasma, RES, tumor and heart, viable tumor cells, five cardiac biomarkers, cardiac reactive oxygen species (ROS), three ellagic acid (EA) pharmacokinetic states, and cumulative cardiac doxorubicin exposure. Ejection fraction (EF) and fractional shortening (FS) are calculated from cumulative cardiac exposure.
 
